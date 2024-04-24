@@ -26,7 +26,7 @@ function App() {
 
   //----------------------- ADICIONAR USUÁRIOS -------------------------
   async function addNewUser() {
-    const { data: newUser } = await axios.post("http://localhost:3001/users", {
+    const { data: newUser } = await axios.post("https://first-project-node-rosy.vercel.app/users", {
       name: inputName.current.value,
       age: inputAge.current.value,
     });
