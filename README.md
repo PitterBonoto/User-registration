@@ -1,13 +1,13 @@
 <h1>Cadastro de Usuários</h1> 
 <br>
 
-<h3>Aplicação de cadastro de usuários feita em React, consumindo uma API feita com Express.js em node.Projeto proposto pelo professor Rodolfo Mori nas aulas do Dev Club.</h3>
+<h3>Aplicação de cadastro de usuários feita em React, consumindo uma API feita com Express.js em node. Projeto proposto pelo professor Rodolfo Mori nas aulas do Dev Club.</h3>
 
 <br>
 <h3>Tecnologias utilizadas: </h3>
 <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+<img align="left" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 
 <br>
 <br>
