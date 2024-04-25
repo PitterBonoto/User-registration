@@ -1,7 +1,7 @@
 <h1>Cadastro de Usuários</h1> 
 <br>
 
-<h3>Aplicação de cadastro de usuários feita em React, utilizando styled-components e navegando entre telas através de rotas. <br> A aplicação consome uma API feita com Express.js em node. Projeto proposto pelo professor Rodolfo Mori nas aulas do Dev Club.</h3>
+<h4>Aplicação de cadastro de usuários feita em React, utilizando styled-components e navegando entre telas através de rotas. <br> A aplicação consome uma API feita com Express.js em node. Projeto proposto pelo professor Rodolfo Mori nas aulas do Dev Club.</h4>
 
 <br>
 <h3>Tecnologias utilizadas: </h3>
