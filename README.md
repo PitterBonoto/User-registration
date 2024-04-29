@@ -12,8 +12,13 @@
 <br>
 <br>
 
+<h4>Deploy: https://users-register-pitter.netlify.app</h4>
+<br>
+<br>
+
 <h5>O vídeo abaixo mostra a aplicação sendo executada, onde o usuário realiza o cadastro dos usuários consumindo uma API no NODE.JS e os mesmos são exibidos em outra tela.</h5>
 <br>
+
 
 <img  src="https://github.com/PitterBonoto/first-project-react/blob/main/src/assets/gif-readme.gif?raw=true" width=950px dis>
 
